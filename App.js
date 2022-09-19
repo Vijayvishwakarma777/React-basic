@@ -5,9 +5,9 @@ function App () {
   return (
     <BrowserRouter>
     <Routes>
-     <Route path="/" element={<div>Home Page</div>} />
-     <Route path="/about" element={<div>About Page</div>} />
-     <Route path="/Contact" element={<div>Contact Page</div>} />
+     <Route path="/" element={<div>Home Page</div>} /> for home page 
+     <Route path="/about" element={<div>About Page</div>} /> for About page 
+     <Route path="/Contact" element={<div>Contact Page</div>} /> For Contact Page
         
       
       </Routes> 
